@@ -1,2 +1,17 @@
+li{
+	padding-top: 10px;
+	list-style-type: none;
+}
+a{
+	color: black;
+}
+h1{
+	color: aliceblue;
+}
 
-/* Your CSS Code here. */
+#container{
+	width: 650px;
+	height: 1200px;
+	background-color: aquamarine;
+	text-align: center;
+}
